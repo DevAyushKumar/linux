@@ -1,0 +1,3 @@
+which
+yum
+systemctl
